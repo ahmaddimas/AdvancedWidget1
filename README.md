@@ -1,5 +1,6 @@
 # AdvancedWidget1
 ## Screnschoot
+![AdvancedWidget1](http://s17.postimg.org/zf9rs6nrz/advancedwidget1.png)
 ![AdvancedWidget1](http://s3.postimg.org/4gjcnwwf7/advancedwidget1_2.png)
 
 ## Identitas
